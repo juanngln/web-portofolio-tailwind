@@ -1,4 +1,4 @@
-# Project Portofolio
-welcome to my portofolio sites 
+# My Portofolio Website
 <br>
-this sites is build using tailwindcss 
+Welcome to my portofolio site!
+this site is built using TailwindCSS and JavaScript
